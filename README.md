@@ -3,6 +3,14 @@
 ## 📌 Description  
 This is a personal portfolio website designed to showcase my work, skills, and experience in web development and cybersecurity. Built with responsiveness and clean aesthetics, the site is perfect for highlighting projects, education, and contact info in a professional format.
 
+## 🤝 Contributor  
+- **Yugveer Singh Sidhu** – [@ReprisalViper](https://github.com/ReprisalViper)
+
+## 📸 Screenshots  
+![Home Page](screenshots/homepage.png)  
+![Projects Section](screenshots/projects.png)
+
+
 ## ⚙️ Features  
 - Fully responsive design  
 - Project showcase section  
