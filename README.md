@@ -6,11 +6,6 @@ This is a personal portfolio website designed to showcase my work, skills, and e
 ## 🤝 Contributor  
 - **Yugveer Singh Sidhu** – [@ReprisalViper](https://github.com/ReprisalViper)
 
-## 📸 Screenshots  
-![Home Page](screenshots/homepage.png)  
-![Projects Section](screenshots/projects.png)
-
-
 ## ⚙️ Features  
 - Fully responsive design  
 - Project showcase section  
